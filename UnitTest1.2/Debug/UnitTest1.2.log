@@ -1,0 +1,3 @@
+﻿  UnitTest1.2.cpp
+C:\Users\computer\Desktop\2 семестр\ООП\лаб 1\lab 1.2\lab1.2\UnitTest1.2\UnitTest1.2.cpp(17,13): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  UnitTest1.2.vcxproj -> C:\Users\computer\Desktop\2 семестр\ООП\лаб 1\lab 1.2\lab1.2\Debug\UnitTest1.2.dll
